@@ -12,6 +12,6 @@ Welcome to Data Security and Privacy Lab (DSP-Lab, founded in 2017) in the Depar
 
 **Website**: [DSP-Lab](https://sites.nd.edu/taeho-jung/dsp-lab/)
 
-**GitHub**: [S2E Lab](https://github.com/nd-dsp-lab)
+**GitHub**: [DSP-Lab](https://github.com/nd-dsp-lab)
 
 **Address**: 351 Fitzpatrick Hall of Engineering, University of Notre Dame, Notre Dame, IN 46556 
