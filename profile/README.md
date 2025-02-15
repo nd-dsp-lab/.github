@@ -15,7 +15,7 @@ Welcome to [Data Security and Privacy Lab](https://sites.nd.edu/taeho-jung/dsp-l
 - **[Showkot Hossain](https://github.com/showkoth)**, PhD Student, Fall 2024 - Present
 - **Micah Brody**, PhD Student, Fall 2024 - Present
 
-For more details visit DSP-Lab website.
+For more details, please visit DSP-Lab [website](https://sites.nd.edu/taeho-jung/dsp-lab/).
 
 ## Contact
 
