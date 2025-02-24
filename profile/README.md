@@ -9,7 +9,7 @@ Welcome to [Data Security and Privacy Lab](https://sites.nd.edu/taeho-jung/dsp-l
 ## Current Graduate Students
 
 - **Wenyi Tang**, ABD PhD candidate
-- **Nirajan Koirala**, PhD Student
+- **[Nirajan Koirala](https://n7koirala.github.io/)**, PhD Student
 - **Tasha Januszewicz**, PhD Student
 - **Jenna Zhao**, PhD Student, Fall 2024 - Present
 - **[Showkot Hossain](https://github.com/showkoth)**, PhD Student, Fall 2024 - Present
@@ -23,4 +23,4 @@ For more details please visit DSP-Lab website.
 
 **GitHub**: [DSP-Lab](https://github.com/nd-dsp-lab)
 
-**Address**: 351 Fitzpatrick Hall of Engineering, University of Notre Dame, Notre Dame, IN 46556
+**Address**: 355 Fitzpatrick Hall of Engineering, University of Notre Dame, Notre Dame, IN 46556
