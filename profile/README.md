@@ -8,8 +8,7 @@ Welcome to [Data Security and Privacy Lab](https://sites.nd.edu/taeho-jung/dsp-l
 
 ## Current Graduate Students
 
-- **Wenyi Tang**, ABD PhD candidate, Fall 2020 - Spring 2026
-- **[Nirajan Koirala](https://n7koirala.github.io/)**, PhD Student, Fall 2022 - Present
+- **[Nirajan Koirala](https://n7koirala.github.io/)**, ABD PhD candidate, Fall 2022 - Present
 - **Tasha Januszewicz**, PhD Student, Fall 2023 - Present
 - **Jenna Zhao**, PhD Student, Fall 2024 - Present
 - **[Showkot Hossain](https://github.com/showkoth)**, PhD Student, Fall 2024 - Present
